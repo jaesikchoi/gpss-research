@@ -1,7 +1,7 @@
 Relational Automatic Statistician
 =====================
 
-This software is based on the automatic statistician system, http://www.automaticstatistician.com/index/.
+Note that, this software is based on the automatic statistician system, http://www.automaticstatistician.com/index/.
 [https://github.com/jamesrobertlloyd/gpss-research](https://github.com/jamesrobertlloyd/gpss-research).
 
 This repository provides the source codes for the paper.
